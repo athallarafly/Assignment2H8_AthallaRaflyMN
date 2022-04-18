@@ -1,0 +1,28 @@
+.gbr1 {
+  width: 150px;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+form {
+  background-color: white;
+}
+
+.btn-left {
+  color: white;
+  padding: 8px 16px;
+  background-color: blue;
+  margin-right: 10px;
+  border-radius: 4px;
+  width: 100px;
+}
+
+.btn-right {
+  padding: 8px 16px;
+  border-radius: 4px;
+  background-color: white;
+  color: rgb(11, 255, 64);
+  width: 100px;
+}
